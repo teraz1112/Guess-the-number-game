@@ -30,7 +30,7 @@ git clone https://github.com/teraz1112/Guess-the-number-game.git
 cd Video-Compressor-Service
 ```
 
-## 🙋使用例
+## 遊び方
 
 1. ゲームを起動する
 ```
