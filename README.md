@@ -22,8 +22,7 @@
 
 1. リポジトリをクローンする
 ```
-git clone https://github.com/teraz1112/Guess-the-number-game
-.git
+git clone https://github.com/teraz1112/Guess-the-number-game.git
 ```
 
 2. クローンしたリポジトリへ移動する
