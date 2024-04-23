@@ -17,6 +17,9 @@
 
 初期設定/入力された数字の判定/メッセージの表示ができます。
 
+## 学習内容
+- データストリーム
+- CLI 
 
 ## インストール
 
@@ -27,7 +30,7 @@ git clone https://github.com/teraz1112/Guess-the-number-game.git
 
 2. クローンしたリポジトリへ移動する
 ```
-cd Video-Compressor-Service
+cd Guess-the-number-game
 ```
 
 ## 遊び方
